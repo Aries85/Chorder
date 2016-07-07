@@ -1,3 +1,7 @@
+conanbuildinfo.cmake
+conaninfo.txt
+.idea/**
+
 # Compiled Object files
 *.slo
 *.lo

@@ -1,0 +1,7 @@
+[requires]
+RtMidi/2.1.1@demo/testing
+TCLAP/1.2.1@demo/testing
+Boost/1.60.0@lasote/stable
+
+[generators]
+cmake
